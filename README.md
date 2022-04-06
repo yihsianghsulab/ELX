@@ -30,13 +30,13 @@ usage: ./eLX -s -e -n #permutations -i Input_GWAS_Summary_file -o Output_eLC_fil
  optional : -s starting position ; -e: # of SNPs for analysis
 ```
 Required:
-- -i:input dataset
-- -o:output filename
-- -n: number of permutation == 10^n
+- -i:   input dataset
+- -o:   output filename
+- -n:   number of permutation == 10^n
 
 Optional:
-- -s:skip number of lines from the beginning of input file
-- -e:number of lines preferred to run in eLX
+- -s:   skip number of lines from the beginning of input file
+- -e:   number of lines preferred to run in eLX
 
 ## Simple usage
 ```
