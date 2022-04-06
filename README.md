@@ -46,5 +46,6 @@ Optional:
 ## Contact
 
 - Yi-Hsiang Hsu: yihsianghsu@hsl.harvard.edu
+- Xing Chen: dr.xingchen@gmail.com
 - Ming-Ju Tsai: mingjutsai@hsl.harvard.edu
 
